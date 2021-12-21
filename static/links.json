@@ -1,0 +1,88 @@
+{
+   "data": [
+        {
+            "sub-heading": "Features",
+            "links": [
+                {
+                    "name": "How it Works",
+                    "path": "/"
+                },
+                {
+                    "name": "Premium",
+                    "path": "/"
+                },
+                {
+                    "name": "For Teams",
+                    "path": "/"
+                },
+                {
+                    "name": "Pricing",
+                    "path": "/"
+                },
+                {
+                    "name": "Templates",
+                    "path": "/"
+                }
+            ]
+        },
+        {
+            "sub-heading": "Resources",
+            "links":[
+                {
+                    "name": "Download Apps",
+                    "path": "/"
+                },
+                {
+                    "name": "Help Center",
+                    "path": "/"
+                },
+                {
+                    "name": "Productivity Methods",
+                    "path": "/"
+                },
+                {
+                    "name": "Refer a friend",
+                    "path": "/"
+                },
+                {
+                    "name": "integrations",
+                    "path": "/"
+                },
+                {
+                    "name": "Channel Partners",
+                    "path": "/"
+                },
+                {
+                    "name": "Developer API",
+                    "path": "/"
+                }   
+            ]
+        },
+        {
+            "sub-heading": "Company",
+            "links":[
+                {
+                    "name": "About us",
+                    "path": "/"
+                },
+                {
+                    "name": "We are Hiring",
+                    "path": "/"
+                },
+                {
+                    "name": "Blog",
+                    "path": "/"
+                },
+                {
+                    "name": "Press",
+                    "path": "/"
+                },
+                {
+                    "name": "Twist",
+                    "path": "/"
+                }
+            ]
+        }
+        
+    ]
+}

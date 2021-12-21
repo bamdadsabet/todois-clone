@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "platform": "Google Play",
+            "description": "Editor’s Choice \n 4.7 stars, 187K+ reviews"
+          },
+          {
+            "id": 2,
+            "platform": "Apple Store",
+            "description": "Featured app \n 4.8 stars, 30K+ reviews"
+          },
+          {
+            "id": 3,
+            "platform": "The Verge",
+            "description": " 9/10\n “The best to-do list app\n right now”"
+          }
+    ]
+}
+

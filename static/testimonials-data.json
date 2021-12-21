@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id" : "1",
+            "subject": "Creatives",
+            "content": "I  literally couldn’t do my job or even manage all the business of being a fully functioning parent and spouse without Todoist.",
+            "name": "Khoi Vinh",
+             "title": "Principal Designer at Adobe",
+            "url": "assets/1-testimony.webp"
+        },
+        {
+            "id" : "2",
+            "subject": "Developers",
+            "content": "As a software engineer, it’s useful to break down big projects into smaller tasks, and Todoist is perfect for that purpose.",
+            "name": "Tigran Hakobyan",
+             "title": "Senior Product Engineer at Buffer",
+            "url": "assets/2-testimony.webp"
+        },
+        {
+            "id" : "3",
+            "subject": "Students",
+            "content": "I kept track of all my school tasks in Todoist and, in 2016, I became the first one in my family to obtain a bachelor’s degree.",
+            "name": "Samantha Houston",
+             "title": "Software Engineer",
+            "url": "assets/3-testimony.webp"
+        },
+        {
+            "id" : "4",
+            "subject": "Small bussiness",
+            "content": "Todoist has revolutionized the way we run our small business by helping us simplify projects and coordinate tons of details.",
+            "name": "Trevour Stephens",
+             "title": "General Manager at Topline Builders",
+            "url": "assets/4-testimony.webp"
+        },
+        {
+            "id" : "5",
+            "subject": "Entrepreneurs",
+            "content": "Todoist gave us the focus to scale our company from 2 to 75 employees, $12M in VC financing, and 350+ happy enterprise customers.",
+            "name": "Andrew Montalenti",
+             "title": "CTO at Parse.ly",
+            "url": "assets/5-testimony.webp"
+        },
+        {
+            "id" : "6",
+            "subject": "Freelancers",
+            "content": "Todoist helps me organize all my writing projects. And that makes it an indispensable tool both in business and in life.",
+            "name": "Jennifer Mattern",
+             "title": "Freelance Writer",
+            "url": "assets/6-testimony.webp"
+        }
+    ]
+}
